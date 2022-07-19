@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - FE (Rect, Vue, AngularJS)
 - BE (Node, Python, C++, Java, Rust)
 - HB (Next)
+- MB (React Native, Swift, Java)
 - BLOCK CHAIN (solidity, graphene, nft, smart contract, dex, dapp)
