@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - BE (Node, Python, C++, Java, Rust)
 - HB (Next)
 - MD (React Native, Swift, Java)
-- BLOCK CHAIN (solidity, graphene, nft, smart contract, dex, dapp)
+- BLOCK CHAIN (solidity, graphene, nft, smart contract, dex, dapp, internet computer, motoko, rust, go)
